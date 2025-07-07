@@ -1,6 +1,6 @@
 ### 1, Product picture
 
-[![lora_transceiver_module_lr1262_01](lora_transceiver_module_lr1262_01.webp)](https://www.elecrow.com/pub/wiki/assets/images/LRCC68_Long-Range_LoRa_Wireless_Transceiver_Module_Ultra-Low_Power_IoTIndustrial/lora_transceiver_module_lrcc68_03.webp)
+[![lora_transceiver_module_LRCC68_01](https://www.elecrow.com/pub/wiki/assets/images/LRCC68_Long-Range_LoRa_Wireless_Transceiver_Module_Ultra-Low_Power_IoTIndustrial/lora_transceiver_module_lrcc68_03.webp)
 
 https://www.elecrow.com/lrcc68-long-range-lora-wireless-transceiver-module-ultra-low-power-iot-industrial.html
 
