@@ -1,6 +1,6 @@
 ### 1, Product picture
 
-![lora_transceiver_module_lr1262_01](F:\wiki\lorawan\LR1262 Long-Range LoRa Wireless Transceiver Module\git\lora_transceiver_module_lr1262_01.webp)
+![lora_transceiver_module_lr1262_01](lora_transceiver_module_lr1262_01.webp)
 
 https://www.elecrow.com/lr1262-long-range-lora-wireless-transceiver-module-ultra-low-power-iot-industrial.html
 
@@ -49,8 +49,8 @@ https://www.elecrow.com/lr1262-long-range-lora-wireless-transceiver-module-ultra
 
 **IO port definition**
 
-![LoRa_Transceiver_Module_LR1262_04](F:\wiki\lorawan\LR1262 Long-Range LoRa Wireless Transceiver Module\git\LoRa_Transceiver_Module_LR1262_04.webp)
+![LoRa_Transceiver_Module_LR1262_04](LoRa_Transceiver_Module_LR1262_04.webp)
 
 ##### Diagram:
 
-![LoRa_Transceiver_Module_LR1262_06](F:\wiki\lorawan\LR1262 Long-Range LoRa Wireless Transceiver Module\git\LoRa_Transceiver_Module_LR1262_06.webp)
+![LoRa_Transceiver_Module_LR1262_06](LoRa_Transceiver_Module_LR1262_06.webp)
