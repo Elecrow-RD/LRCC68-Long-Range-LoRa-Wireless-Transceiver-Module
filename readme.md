@@ -1,8 +1,8 @@
 ### 1, Product picture
 
-![lora_transceiver_module_lr1262_01](lora_transceiver_module_lr1262_01.webp)
+[![lora_transceiver_module_lr1262_01](lora_transceiver_module_lr1262_01.webp)](https://www.elecrow.com/pub/wiki/assets/images/LRCC68_Long-Range_LoRa_Wireless_Transceiver_Module_Ultra-Low_Power_IoTIndustrial/lora_transceiver_module_lrcc68_03.webp)
 
-https://www.elecrow.com/lr1262-long-range-lora-wireless-transceiver-module-ultra-low-power-iot-industrial.html
+https://www.elecrow.com/lrcc68-long-range-lora-wireless-transceiver-module-ultra-low-power-iot-industrial.html
 
 
 
@@ -16,26 +16,24 @@ https://www.elecrow.com/lr1262-long-range-lora-wireless-transceiver-module-ultra
 
 | Processor                   | None                                                         |
 | :-------------------------- | :----------------------------------------------------------- |
-| RF chip                     | Semtech SX1262 Chip                                          |
+| RF chip                     | Semtech LLCC68 Chip                                          |
 | LoRa Specification          |                                                              |
 | Transmit Power TX           | 22 dBm@Max                                                   |
-| Receiving Sensitivity       | -148dBm                                                      |
-| Link Budget                 | Support 170db link budget                                    |
-| Demodulator                 | Support LoRa/(G)FSK/GMSK signal modulation，SF5~SF12, Support 150MHz-960MHz configuration |
-| Data Transfer Rate          | Supports data transmission rates from 0.018 to 62.5 kbps     |
+| Receiving Sensitivity       | -129dBm                                                      |
+| Link Budget                 | Support 151db link budget                                    |
+| Demodulator                 | Support LoRa/(G)FSK signal modulation，SF5~SF11, Support 150MHz-960MHz configuration |
+| Data Transfer Rate          | Supports data transmission rates from 1.76 to 62.5 kbps      |
 | Other                       |                                                              |
 | Frequency                   | Covering 850~930MHz (applicable to 868MHz, 915MHz)           |
 | Communication Interface     | SPI(0~10Mbps)                                                |
 | Lead Pin                    | Such as SPI signal, VCC, multiple GND, NRST, ANT, TX control, RX control, BUSY status, NFC, SWD debugging pin, etc. |
 | Antenna                     | SMT pins, impedance @ 50 ohms                                |
-| Reference Power Consumption | 1.62uA (sleep), 119mA (transmit + MCU), 6.8mA (receive + MCU) |
-| Communication Distance      | 6~7km, up to 15km                                            |
+| Reference Power Consumption | 1.62uA (sleep), 100mA (transmit + MCU), 10mA (receive + MCU) |
+| Communication Distance      | 5~6km, up to 10km                                            |
 | Crystal Type                | Industrial grade 32MHz TCXO                                  |
 | Frequency Range             | 150 MHz to 960 MHz                                           |
 | Operating Voltage           | 1.8~3.7V                                                     |
 | Operating Temperature       | -40℃~+85℃, Industrial standard design                        |
-| Package Size                | 10*10*3.5mm, 20-pin patch stamp hole design;                 |
-| Net Weight                  | 1g                                                           |
 
 ### 4,Folder structure.
 
@@ -49,8 +47,8 @@ https://www.elecrow.com/lr1262-long-range-lora-wireless-transceiver-module-ultra
 
 **IO port definition**
 
-![LoRa_Transceiver_Module_LR1262_04](LoRa_Transceiver_Module_LR1262_04.webp)
+![LoRa_Transceiver_Module_LRCC68_06](https://www.elecrow.com/pub/wiki/assets/images/LRCC68_Long-Range_LoRa_Wireless_Transceiver_Module_Ultra-Low_Power_IoTIndustrial/LoRa_Transceiver_Module_LRCC68_04.webp)
 
 ##### Diagram:
 
-![LoRa_Transceiver_Module_LR1262_06](LoRa_Transceiver_Module_LR1262_06.webp)
+![LoRa_Transceiver_Module_LRCC68_07](https://www.elecrow.com/pub/wiki/assets/images/LRCC68_Long-Range_LoRa_Wireless_Transceiver_Module_Ultra-Low_Power_IoTIndustrial/LoRa_Transceiver_Module_LRCC68_06.webp)
